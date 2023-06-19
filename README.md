@@ -30,4 +30,4 @@ My current HackerRank scores:
 - Java: 5 stars
 - Algorithms: Top 10%
 
-You can visit my [HackerRank profile](https://www.hackerrank.com/your-profile) to learn more about my achievements.
+You can visit my [HackerRank profile](https://www.hackerrank.com/freekyajmal?hr_r=1) to learn more about my achievements.
