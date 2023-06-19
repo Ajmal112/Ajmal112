@@ -16,3 +16,18 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/ajmal786"><img src="https://api.daily.dev/devcards/fc5f49d2bd304075a8d0ad80b951a683.png?r=q38" width="400" alt="A J M A L's Dev Card"/></a>
+
+
+
+## HackerRank Scores
+
+![Badge 1](path/to/badge1.png)
+![Badge 2](path/to/badge2.png)
+
+My current HackerRank scores:
+
+- Problem Solving: 1000 points
+- Java: 5 stars
+- Algorithms: Top 10%
+
+You can visit my [HackerRank profile](https://www.hackerrank.com/your-profile) to learn more about my achievements.
