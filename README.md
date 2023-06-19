@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 ## HackerRank Scores
 
-![Badge 1](https://media.licdn.com/dms/image/sync/D4D27AQGkQ2r43w_lTQ/articleshare-shrink_800/0/1686266218868?e=1687647600&v=beta&t=WSFYHkFy_uhHHIIUE2AYAgjmHcmDJZpwEYVArYhpdu4)
-
 My current HackerRank scores:
 
 - Problem Solving:  4 stars
