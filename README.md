@@ -10,7 +10,7 @@
 My current HackerRank scores:
 
 - Problem Solving:  4 stars
-- Java: 1 star
+- Java: 2 star
 - Hackos : 1774
 - SQL : 2 stars 
 
