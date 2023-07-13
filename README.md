@@ -10,8 +10,9 @@
 My current HackerRank scores:
 
 - Problem Solving:  4 stars
-- Java: 2 star
-- Hackos : 1774
+- 10 Days of JavaScript: 5 stars
+- Java: 5 stars
+- Hackos : 3909
 - SQL : 2 stars 
 
 You can visit my [HackerRank profile](https://www.hackerrank.com/freekyajmal?hr_r=1) to learn more about my achievements.
